@@ -1,0 +1,8 @@
+servlet\AddRecordServlet.class
+servlet\PropertyServlet.class
+filter\NameFilter.class
+model\Record.class
+listener\AppContextListener.class
+servlet\SearchRecordServlet.class
+filter\IdFilter.class
+filter\responseFilter.class
